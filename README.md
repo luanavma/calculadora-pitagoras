@@ -5,4 +5,4 @@ Calculadora capaz de calcular a relação entre os lados de um triângulo retân
 CSS, HTML e Javascript
 
 # Acesso ao projeto
-Acesse o projeto através desse link:
+Acesse o projeto através desse link: https://luanavma.github.io/calculadora-pitagoras/ 
